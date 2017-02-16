@@ -1,0 +1,21 @@
+{
+    "name": "entero/yii2-datepair",
+    "description": " A javascript plugin for intelligently selecting date and time ranges inspired by Google Calendar. And now the yii2 extension is made... New",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "sujith kumar c",
+            "email": "sujith.entero@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "entero\\\\datepair\\\\": ""
+        }
+    }
+}
