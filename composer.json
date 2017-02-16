@@ -10,6 +10,7 @@
             "email": "sujith.entero@gmail.com"
         }
     ],
+    "stability":"stable",
     "require": {
         "yiisoft/yii2": "*"
     },
